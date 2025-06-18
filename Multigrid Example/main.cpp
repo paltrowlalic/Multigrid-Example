@@ -75,6 +75,8 @@ int main(int argc, const char * argv[]) {
     delete [] Sol;
     delete [] RHS;
     
+    cout << endl;
+    
     return 0;
 }
 
